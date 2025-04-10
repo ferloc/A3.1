@@ -43,6 +43,6 @@ SVM con kernel radial (RBF): Precisión = 1.0000
 
 Indice
 
-- [Reporte en formato HTML](A3.1_641675.html)
-- [Reporte en formato ipynb](A3.1_641675.ipynb)
+- [Reporte en formato HTML](A3.1%20641675.html)
+- [Reporte en formato ipynb](A3.1%20641675.ipynb)
 - [Base de datos](A3.1%20Khan.csv)
